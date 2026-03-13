@@ -1,0 +1,29 @@
+{
+    "name": "atopile",
+    "owner": {
+        "name": "mawildoer",
+        "email": "mawildoer@gmail.com"
+    },
+    "metadata": {
+        "description": "Unofficial atopile plugins for AI-assisted electronics design"
+    },
+    "plugins": [
+        {
+            "name": "atopile-dev",
+            "source": "./",
+            "description": "Design electronics with atopile's declarative DSL (ato). Provides language reference, package creation guides, and electronics design workflows.",
+            "version": "1.0.0",
+            "homepage": "https://github.com/mawildoer/atopile-agent-skill/",
+            "repository": "https://github.com/mawildoer/atopile-agent-skill/",
+            "license": "MIT",
+            "keywords": [
+                "atopile",
+                "ato",
+                "pcb",
+                "electronics",
+                "hardware"
+            ],
+            "category": "domain-expertise"
+        }
+    ]
+}

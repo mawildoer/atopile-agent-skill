@@ -1,0 +1,22 @@
+{
+    "name": "atopile-dev",
+    "description": "Design electronics with atopile's declarative DSL (ato). Provides language reference, package creation guides, and electronics design workflows for AI agents working with .ato files and PCB design.",
+    "version": "1.0.0",
+    "author": {
+        "name": "mawildoer",
+        "email": "mawildoer@gmail.com"
+    },
+    "homepage": "https://github.com/mawildoer/atopile-agent-skill/",
+    "repository": "https://github.com/mawildoer/atopile-agent-skill/",
+    "license": "MIT",
+    "keywords": [
+        "atopile",
+        "ato",
+        "pcb",
+        "electronics",
+        "hardware",
+        "circuit-design",
+        "declarative",
+        "dsl"
+    ]
+}

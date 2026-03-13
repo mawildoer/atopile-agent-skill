@@ -6,7 +6,7 @@ description: >
   or when the user mentions atopile, ato, circuits, PCBs, or electronics design.
 license: MIT
 metadata:
-  author: atopile
+  author: mawildoer
   version: "1.0"
 ---
 
