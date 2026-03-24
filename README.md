@@ -40,13 +40,15 @@ Point your agent at `skills/atopile-dev/SKILL.md`.
 
 | File | Description |
 |---|---|
-| `skills/atopile-dev/SKILL.md` | Main skill -- overview of ato syntax, key concepts, standard library, and MCP tools |
+| `skills/atopile-dev/SKILL.md` | Main skill -- ato syntax, key concepts, expanded standard library reference, project structure, and MCP tools |
 | `skills/atopile-dev/references/syntax.md` | Complete ato syntax examples |
 | `skills/atopile-dev/references/grammar.md` | Full ANTLR4 parser grammar |
-| `skills/atopile-dev/references/common-modules.md` | Standard library module and interface APIs |
+| `skills/atopile-dev/references/common-modules.md` | Full standard library module and interface API reference |
 | `skills/atopile-dev/references/language.md` | Language features deep-dive |
 | `skills/atopile-dev/references/packages.md` | Step-by-step package creation guide |
 | `skills/atopile-dev/references/vibe-coding.md` | End-to-end electronics design workflow for AI agents |
+| `skills/atopile-dev/references/planning.md` | Spec-driven planning for complex designs: project structure, wrapper patterns, planning flow |
+| `skills/atopile-dev/references/package-development.md` | How to build and refine reusable package wrappers in isolation |
 
 ## Contributing
 
